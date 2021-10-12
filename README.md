@@ -1,5 +1,8 @@
 # WeekMenu
+## Docker
+(coming soon)
 
+## Manual
 1. Install python3.7 + install pip environment and dependencies
 ```
 pip3 install -r requirements.txt
